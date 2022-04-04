@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capitalsamurai
-- 👀 I’m interested in IOS App Development
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Finance Apps
 - 📫 How to reach me - capitalsamurai@outlook.com
 
